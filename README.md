@@ -48,10 +48,10 @@ This involves the expoloring of the Data to examine and summarise the data to un
 ### Data Analysis
 -----
 Some interesting code/formulas worked with are;
--Formulas in Excel were used to calculate metrics such as average sales per product.
+- Formulas in Excel were used to calculate metrics such as average sales per product.
 ```EXCEL
 =AVERAGEIF(C2:C50001,C2,H2:H50001)
-
+```
 ![CAPSTONE PROJECT SALES DATA EXCEL](https://github.com/user-attachments/assets/1b551e25-f344-4ed7-bfa5-60038ec812ff)
 
 - Pivot tables were used to analyse subscription patterns and identifying key segments.
