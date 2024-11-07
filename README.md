@@ -1,6 +1,18 @@
 # PROJECT-CAPSTONE-SALES-DATA
 
-## Project Title: SALES PERFORMANCE ANALYSIS FOR A RETAIL STORE
+# Project Title: SALES PERFORMANCE ANALYSIS FOR A RETAIL STORE
+
+## Table of contents
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools Used](#tools-used)
+- [Data Cleaning and Preparations](#data-cleaning-and-preparations)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Data Visualization](#data-visualization)
+- [Results/Findings](#resultsfindings)
+- [Recommendations](#recommendations)
+
 
 ### Project Overview
 ---
@@ -82,4 +94,22 @@ Order by
 - PowerBI was used to create interactive dashboards and visualize key findings.
 ![CAPSTONE PROJECT SALES DATA VISUAL](https://github.com/user-attachments/assets/7c380e84-fe48-49ef-a31e-0bc540b2e4a3)
 
+### Results/Findings
+---
+The summaries Results/findings are as follows;
+1. The South Region made the highest sales in the region.
+2. Top-selling Products: Shoes (35% of total sales), Shirts (25%), and Hats (20%) drove the 
+    majority of sales.
+3. Sales peaked during winter months (December, January, February) with a 25% increase in sales of 
+   Jackets, Gloves, and Hats.
 
+### Recommendations
+---
+Baseed on the analysis we recommend the following actions;
+- Conduct quarterly inventory reviews to ensure optimal stock levels.
+- Focus on expanding and promoting produts in other Regions for wider reach.
+- Target marketing efforts in high-performing regions. 
+- Enhance customer satisfaction through optimized inventory and promotions; Offer discounts on 
+  slow-moving products and run seasonal promotions 
+
+- 
